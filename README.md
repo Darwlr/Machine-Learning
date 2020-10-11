@@ -1,0 +1,9 @@
+# Machine-Learning
+## 核心工具
+Python3 scikit-learn Numpy matplotlib jupyter notebook ...
+## 机器学习经典算法
+K近邻算法 线性回归 多项式回归 逻辑回归 PCA SVM决策树 随机森林 集成学习 boosting ...
+## 机器学习应用
+算法推导 算法对比 算法调试 模型正则化 模型选择 模型调用 模型评价 超参调整 ...
+
+self-defining文件夹下是自己实现封装的算法~~
